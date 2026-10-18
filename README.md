@@ -51,15 +51,3 @@ Your goal is to reach the end of the level without losing all your lives. Each c
 <img width="400" alt="ipad3" src="https://github.com/user-attachments/assets/7a32605a-24b6-4e3a-b4d6-c467a9947123" />
 <img width="400" alt="ipad4" src="https://github.com/user-attachments/assets/22e6f1b7-f57f-46cd-bfda-1d2a60dcf55b" />
 
-## 🎥 Demo Video 
-- [Demo on iOS](https://youtu.be/vE1IFdPWoXU)           
-
-- [Demo on iPadOS](https://youtu.be/9UjK9f2m0-4)
-
-## 🎨 Assets Credits
-
-- 🎛️ **Button Assets**  
-  [Modern Buttons Pack by Darknes Games Studio](https://darknesgamesstudio.itch.io/modernbuttonspack)
-
-- ❤️ **Heart Icons**  
-  [Heart Sprite 2D Pack by Jarinc](https://jarinc.itch.io/heart-sprite-2d-pack01)
