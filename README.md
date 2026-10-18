@@ -1,4 +1,4 @@
-# Zombie Conga 🧟‍♂️
+# Zombie Conga with Indian version  🧟‍♂️
 
 Zombie Conga is a fun and fast-paced 2D game built using Apple’s SpriteKit framework. You play as a zombie who moves across the map collecting cats and avoiding enemy. 
 
